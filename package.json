@@ -1,0 +1,23 @@
+{
+  "name": "@types/react-flexbox-grid",
+  "version": "1.0.0",
+  "description": "@types definition for react-flexbox-grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottoas.is/types-react-flexbox-grid.git"
+  },
+  "author": "Scott Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottoas.is/types-react-flexbox-grid/issues"
+  },
+  "homepage": "https://github.com/scottoas.is/types-react-flexbox-grid#readme",
+  "peerDependencies": {
+    "@types/react": "^15.0.38",
+    "react": "^15.6.1"
+  }
+}
